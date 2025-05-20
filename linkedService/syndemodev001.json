@@ -1,0 +1,13 @@
+{
+	"name": "syndemodev001",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://syn-demo-dev-001.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/b53faca8-bb8f-4393-8d9b-5bc8bddd7977/resourceGroups/rg-demo-dev-001/providers/Microsoft.Synapse/workspaces/syn-demo-dev-001"
+		}
+	}
+}

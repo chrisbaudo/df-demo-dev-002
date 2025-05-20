@@ -1,0 +1,9 @@
+{
+	"name": "df-demo-dev-002",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03901d0d-0e7f-4ac9-bd7d-00a71e8a032e",
+		"tenantId": "c73d0e14-6583-4651-9e13-3878938c94fb"
+	}
+}
